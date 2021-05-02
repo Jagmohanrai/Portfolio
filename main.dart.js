@@ -48035,7 +48035,7 @@ r.push(new N.wA(s))
 return M.Zu(C.co,new E.zu(C.l,s,s,!0,s,new F.fn(r,C.b2,C.cm,C.bD,s),s),C.E,C.o5,0,s,s,C.fF)}}
 F.xt.prototype={
 L:function(a,b){var s=null,r=X.ZX(s,C.a6,s,s,s).ac,q=B.dV(r.a),p=B.dV(r.b),o=B.dV(r.c),n=B.dV(r.d),m=B.dV(r.e),l=B.dV(r.f),k=B.dV(r.r),j=B.dV(r.x),i=B.dV(r.y),h=B.dV(r.z),g=B.dV(r.Q),f=B.dV(r.ch)
-return new S.pt(new Y.wK(s),"PortfolioX",X.ZX(C.o7,s,C.wm,R.ZV(i,h,f,g,q,p,o,n,m,l,B.dV(r.cx),k,j),X.a2W()),!1,s)}}
+return new S.pt(new Y.wK(s),"Jagmohan Rai",X.ZX(C.o7,s,C.wm,R.ZV(i,h,f,g,q,p,o,n,m,l,B.dV(r.cx),k,j),X.a2W()),!1,s)}}
 D.xm.prototype={
 L:function(a,b){var s,r,q=null,p=t.w,o=new V.es(b.T(p).f).gfL()===C.bc?C.l:C.k,n=M.a2Y("All Creative works,\n"),m=M.a2T("Selected projects."),l=m.gei()
 m.bE$=C.u6
